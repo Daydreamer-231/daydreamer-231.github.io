@@ -1,1 +1,1 @@
-This is the official repo for the site of Bingo Development (maked with GitHub pages)
+This is the official repo for the web page for Daydreamer. (maked with GitHub pages)
