@@ -11,6 +11,7 @@ This project was **inspired** by:
 
 **You must follow them, they are very good devs.**
 
-- [Bingo Development’s Discord](https://discord.gg/6HfSkjgtZJ)
+- [Bingo Development’s Discord](https://discord.gg/xpEvsas2Fx)
+- [Add Bingo to your server](https://dsc.gg/bingobotx)
 
 For now, that's all, __thanks for reading trough__!
